@@ -4,10 +4,12 @@
  Rot
  Grün
  Hellgrün
+ Dunkelgrün
  Blau
  Hellblau
  Dunkelblau
  Gelb
  Magenta
+ 
  Sind alles tolle Farben
  
