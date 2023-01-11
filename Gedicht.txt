@@ -3,6 +3,9 @@
  
  Rot
  Grün
+ Hellgrün
  Blau
+ Gelb
+ Magenta
  Sind alles tolle Farben
- neu farbe gel
+ 
